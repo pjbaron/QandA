@@ -32,9 +32,9 @@ __Text file format:__
 * Answers must be on a single (separate line)
 * The tool assumes that every question has an answer in the file (it alternates non-empty lines as Q,A,Q,A)
 - - - -
-__Example text file:
+__Example text file:__
 - - - -
-`
+```
 Is this tool useful?
 Yes, for a certain type of rote learning it can be very helpful.
 
@@ -46,5 +46,5 @@ Because it isn't needed, empty lines are totally ignored but are not required.
 
 Do we need a question mark after every question.
 Nope.
-`
+```
 - - - -
