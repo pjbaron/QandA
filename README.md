@@ -36,7 +36,7 @@ __Example text file:__
 - - - -
 ```
 Is this tool useful?
-Yes, for a certain type of rote learning it can be very helpful.
+Yes, for a certain types of rote learning it can be very helpful.
 
 How large is the executable file?
 On my machine it builds to 14KB
